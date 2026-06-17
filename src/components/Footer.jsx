@@ -71,8 +71,8 @@ export default function Footer() {
               title="Connect"
               links={[
                 { href: 'mailto:content@subtle.company', label: 'Email' },
-                { href: 'https://linkedin.com', label: 'LinkedIn' },
-                { href: 'https://instagram.com', label: 'Instagram' },
+                { href: 'https://www.linkedin.com/company/subtle-company/', label: 'LinkedIn' },
+                { href: 'https://www.instagram.com/subtle.company', label: 'Instagram' },
               ]}
             />
           </div>
